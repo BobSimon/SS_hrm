@@ -9,6 +9,6 @@
 
 ![img](/doc/2.PNG)
 
-![img](/doc/3.PNG)
+![img](/doc/3.png)
 
 ![img](/doc/4.PNG)
